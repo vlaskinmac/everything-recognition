@@ -24,7 +24,7 @@ pip3 install -r requirements.txt
 
 ```
 
-If the V2 version from the file **requirements.txt** outdated, use the command:
+If the CV2 version from the file **requirements.txt** outdated, use the command:
 
 ```python
 pip3 install opencv-python
